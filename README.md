@@ -71,7 +71,7 @@ Dica: passe o mouse sobre os elementos da interface do usuário para obter dicas
 Para sair, feche a janela CMD
 ```
 
-# Samples:
+# Exemplos de samples:
 
 ![Exemplos de samples](/images/sampleexample.jpg)
 
@@ -92,7 +92,7 @@ time: 1m 19s
 ```
 
 <p align="center">
-	<img src="/images/1.png" width="30%" />
+	<img src="/images/generated/1.png" width="30%" />
 </p>
 
 </details>
