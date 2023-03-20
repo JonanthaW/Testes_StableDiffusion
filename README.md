@@ -66,18 +66,23 @@ Para sair, feche a janela CMD
 ```
 
 # Imagens geradas:
-
 <details>
-<summary>
+
+<summary>Asuka langley - primeira imagem</summary>
+
 ```
 Sampler: Euler
 Seed: 2870305590
 CFG: 12
+steps: 20
 Resolution: 512x512
 Prompt: masterpiece, best quality, masterpiece, asuka langley sitting cross legged on a chair
 Negative Prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts,signature, watermark, username, blurry, artist name
 time: 1m 19s
 ```
-![Asuka](/images/1.png)
-</summary>
+
+<p align="center">
+	<img src="/images/1.png" width="30%" />
+</p>
+
 </details>
