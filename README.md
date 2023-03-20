@@ -1,3 +1,5 @@
+![logo stable diffusion](/images/logo.jpeg)
+
 O Stable Diffusion é um software que gera imagens através de inteligência artificial alimentada por um banco de imagens sistematicamente descritas utilizadas como referência na produção de novas imagens. A ferramenta é capaz de produzir imagens com diversos estilos. Em alguns casos, as imagens podem até parecer uma fotografia de tão real ou até mesmo obras de artes famosas. 
 
 A ferramenta foi fundada pela stability.ai em parceria com Runway, desenvolvidos em Python e Jupyter Notebook. Seu primeiro lançamento aconteceu no dia 31 de agosto de 2022. 
