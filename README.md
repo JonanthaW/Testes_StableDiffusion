@@ -13,6 +13,12 @@ A ferramenta foi fundada pela stability.ai em parceria com Runway, desenvolvidos
 
 [GUIA COMPLETO - INGLÊS](https://rentry.org/voldy) - guia que segui para conseguir utilizar o stable diffusion.
 
+# Sites interessantes:
+
+* [top-sd-artists](https://www.urania.ai/top-sd-artists) - Esta página lista todos os 1.833 artistas representados no modelo Stable Diffusion 1.4. Tudo foi criado com um CFG de 7,5, 50 passos e a mesma semente.
+* [have I been trained](https://haveibeentrained.com/) - Pesquise 5,8 bilhões de imagens usadas para treinar modelos populares de arte de IA. HaveIBeenTrained usa a recuperação de clipes para pesquisar os conjuntos de dados de imagens Laion-5B e Laion-400M. Atualmente, esses são os maiores conjuntos de dados públicos de texto para imagem e são usados para treinar modelos como Stable Diffusion, Imagen, entre muitos outros.
+
+
 # Máquina utilizada:
 
 * 2x RAM DDR4, 8GB 3000MHz
@@ -64,6 +70,10 @@ Digite o endereço em seu navegador para entrar no ambiente GUI
 Dica: passe o mouse sobre os elementos da interface do usuário para obter dicas sobre o que eles fazem
 Para sair, feche a janela CMD
 ```
+
+# Samples:
+
+![Exemplos de samples](/images/sampleexample.jpg)
 
 # Imagens geradas:
 <details>
