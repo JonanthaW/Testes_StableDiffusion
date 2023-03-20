@@ -62,3 +62,20 @@ Digite o endereço em seu navegador para entrar no ambiente GUI
 Dica: passe o mouse sobre os elementos da interface do usuário para obter dicas sobre o que eles fazem
 Para sair, feche a janela CMD
 ```
+
+# Imagens geradas:
+
+<details>
+<summary>
+```
+Sampler: Euler
+Seed: 2870305590
+CFG: 12
+Resolution: 512x512
+Prompt: masterpiece, best quality, masterpiece, asuka langley sitting cross legged on a chair
+Negative Prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts,signature, watermark, username, blurry, artist name
+time: 1m 19s
+```
+![Asuka](/images/1.png)
+</summary>
+</details>
